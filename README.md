@@ -1,4 +1,5 @@
-# Experiment for Cryptography course on university
+# Experiment for Cryptography course on university  
+All enciphering is done with eratosthenes generator
 ---
 ### First image data
 
