@@ -1,10 +1,10 @@
 # stegano-experiment
-Experiment for Cryptography course on university
+##Experiment for Cryptography course on university
 ---
-## First image
+### First image
 
 ---
-## Second image
+### Second image
 
 ---
-## Third image
+### Third image
